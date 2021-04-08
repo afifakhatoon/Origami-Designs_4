@@ -1,0 +1,20 @@
+h1{
+    color:#15a2ed;
+    border: 10px #ed5615;
+    background-color: #f099ee;
+}
+body{
+   background-image: url("wallpaper.jpg");
+}
+img{
+    border: 5px solid #171617;
+    border-radius: 40px;
+}
+p{
+    font-weight: bold;
+}
+.grid{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
